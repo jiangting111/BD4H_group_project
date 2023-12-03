@@ -1,0 +1,162 @@
+ATC,DrugName
+A12B,Acetaminophen
+A01A,Acyclovir
+A02A,Advair Diskus
+A02B,Albumin
+A03A,Albuterol 
+A03B,Albuterol Sulfate-Ipratropium
+A03F,Alendronate Sodium
+A04A,Alteplase 
+A05A,Aluminum Hydroxide
+A06A,Aluminum-Magnesium Hydroxide
+A07A,Ampicillin Sodium
+A07D,Aquaphor
+A07E,Aquaphor Ointment
+A08A,Artificial Tears
+A09A,Aspirin
+A10A,Atovaquone 
+A10B,Atropine Sulfate Ophth
+A11C,Bacitracin-Polymyxin
+A11D,Basiliximab
+A11G,Beclomethasone Dipro
+A11H,Bengay
+A12A,Benzocaine 
+A12B,Beractant
+A12C,Bicitra
+A16A,Bismuth Subsalicylate
+B01A,Brimonidine Tartrate 
+B02A,Bupivacaine
+B02B,Butalbital-Acet-Caffeine
+B03A,Caffeine Citrate
+B03B,Calcium Carbonate Suspension
+B05A,Calcium Replacement
+B05B,Caphosol
+B05C,Carbamazepine XR
+B05X,Carbidopa-Levodopa CR
+C01A,Cefotaxime
+C01B,CeftriaXONE Desensitization
+C01C,Cetylpyridinium Chl
+C01D,Chloraseptic Throat Spray
+C01E,Chlorhexidine Gluconate
+C02A,Chlorothiazide
+C02C,Ciprofloxacin IV
+C02D,Citrate Dextrose
+C03A,Clobetasol Propionate 
+C03B,Clonidine Patch
+C03C,Collagenase
+C03D,Creon
+C04A,Critic-Aid Skin Paste
+C05A,Cyclopentolate
+C05B,Dakins
+C07A,Desitin
+C07F,Dexamethasone Ophthalmic Soln 
+C08C,Dexamethasone Sod Phosphate
+C08D,Dextromethorphan Poly Complex
+C09A,Dextrose
+C09B,Diltiazem
+C09C,Diphenoxylate-Atropine
+C09D,Dipyridamole-Aspirin
+C09X,Divalproex Sodium
+C10A,Dorzolamide
+C10B,DT  & Acellular Pertussis
+D01A,DTaP-HepB-IPV Combined
+D03A,Emtricitabine-Tenofovir
+D04A,Enalaprilat
+D05A,Epidural Bag
+D06A,Epinephrine
+D06B,Epoetin Alfa
+D07A,Epoprostenol Na
+D07X,Ertapenem Sodium
+D08A,Erythromycin
+D09A,Estrogens
+D10A,Ethacrynate Sodium
+D11A,Eucerin
+G01A,Fat Emulsion
+G02C,Fentanyl
+G03A,Ferric Gluconate
+G03D,Ferrous Sulfate 
+G04B,Fish Oil
+G04C,Fleet Enema
+H01A,Fleet Phospho-Soda
+H01B,Fluticasone Propionate
+H01C,Fluticasone-Salmeterol Diskus
+H02A,Gammagard Liquid
+H03A,Gastroview
+H03B,Gelclair
+H04A,Gentamicin
+H05B,GlipiZIDE XL
+J01A,Glycerin Supps
+J01C,Guaifenesin-CODEINE Phosphate
+J01D,Haemophilus B  Conj Vac
+J01F,Haemophilus B Conj. Vaccine
+J01G,Heparin
+J01M,Hepatitis B Immu Glob
+J01R,Hepatitis B Vaccine
+J01X,Hurricaine Spray
+J02A,Hydrocerin
+J04A,Hydrocodone-Acetaminophen
+J04B,Hydrocortisone
+J05A,HYDROmorphone
+J06B,Ibuprofen
+L01A,Indomethacin Sodium
+L01B,Influenza Virus Vaccine
+L01C,Ipratropium Bromide
+L01D,Iron Dextran Complex
+L01E,Iron Polysaccharides Complex
+L01F,Isotonic Sodium Chloride
+L01X,Ketoconazole 
+L02A,Lacri-Lube Oint
+L02B,Lactated Ringers
+L03A,Lactic Acid 
+L04A,Lactulose Enema
+M01A,Lansoprazole 
+M02A,Lanthanum
+M03A,Latanoprost
+M03B,Levalbuterol
+M04A,LeVETiracetam
+M05B,Lidocaine
+N01A,Lithium Carbonate
+N01B,Maalox/Diphenhydramine/Lidocaine
+N02A,Maalox/Lidocaine
+N02B,Magnesium Sulfate 
+N02C,Mannitol 
+N03A,MCT Oil
+N04A,MCT Oil
+N04B,MENINGOcoccal Conj Vaccine
+N05A,Meropenem Desensitization
+N05B,Mesalamine DR
+N05C,MetFORMIN XR
+N06A,Methylene Blue 1%
+N06B,Methylprednisolone Na Succ.
+N06D,Metoclopramide
+N07A,Miconazole
+N07B,Miralax
+P01A,Morphine Sulfate
+P01B,Multivitamin
+R01A,Mupirocin 
+R01B,Mycophenolate Mofetil
+R02A,Nafcillin Desensitization
+R03A,Neomycin-Polymyxin-Bacitracin
+R03B,Neutra-Phos
+R03C,Niacin SR
+R03D,Nicardipine HCl IV
+R05C,NiCARdipine IV
+R05D,Nicotine Patch
+R06A,NIFEdipine CR
+S01A,Nitrofurantoin Monohyd
+S01B,Nitroglycerin
+S01C,Normocarb
+S01E,Nystatin
+S01F,Omeprazole
+S01G,Ondansetron ODT
+S01H,Opium Tincture
+S01X,Oxacillin
+S02A,Palivizumab
+S02B,Pancrelipase 5000
+S02D,Pangestyme-EC
+S03A,Papain-
+S03B,Parenteral Nutrition
+V03A,Pediatric Vitamins ADC
+V04C,Penicillin G K Desensitization
+V06D,Pentamidine
+V10X,Phenaseptic Throat Spray
